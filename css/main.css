@@ -30,6 +30,6 @@ h3 {
 }
 
 .imagem {
-  padding-top: 30px;
-
+    padding-top: 30px;
+    display: block;
 }
